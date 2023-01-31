@@ -58,5 +58,5 @@ tbody tr :nth-child(3) {
 }
 
 tbody tr:hover {
-    background-color: greenyellow;
+    background-color: greenyellow
 }
